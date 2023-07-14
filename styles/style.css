@@ -118,7 +118,7 @@
 .cover__description {
   display: flex;
   justify-content: end;
-  align-items: center; 
+  align-items: center;
   gap: 78px;
   padding-top: 135px;
   padding-right: 50px;
@@ -129,7 +129,7 @@
   font-size: 22px;
   font-style: normal;
   line-height: 28px;
-  text-align: center; 
+  text-align: center;
   text-transform: uppercase;
 }
 
